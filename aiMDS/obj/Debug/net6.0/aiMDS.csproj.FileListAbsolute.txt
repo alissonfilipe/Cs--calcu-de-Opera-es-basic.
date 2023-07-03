@@ -1,0 +1,15 @@
+C:\Users\Alifd\source\repos\aiMDS\aiMDS\obj\Debug\net6.0\aiMDS.csproj.AssemblyReference.cache
+C:\Users\Alifd\source\repos\aiMDS\aiMDS\obj\Debug\net6.0\aiMDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alifd\source\repos\aiMDS\aiMDS\obj\Debug\net6.0\aiMDS.AssemblyInfoInputs.cache
+C:\Users\Alifd\source\repos\aiMDS\aiMDS\obj\Debug\net6.0\aiMDS.AssemblyInfo.cs
+C:\Users\Alifd\source\repos\aiMDS\aiMDS\obj\Debug\net6.0\aiMDS.csproj.CoreCompileInputs.cache
+C:\Users\Alifd\source\repos\aiMDS\aiMDS\bin\Debug\net6.0\aiMDS.exe
+C:\Users\Alifd\source\repos\aiMDS\aiMDS\bin\Debug\net6.0\aiMDS.deps.json
+C:\Users\Alifd\source\repos\aiMDS\aiMDS\bin\Debug\net6.0\aiMDS.runtimeconfig.json
+C:\Users\Alifd\source\repos\aiMDS\aiMDS\bin\Debug\net6.0\aiMDS.dll
+C:\Users\Alifd\source\repos\aiMDS\aiMDS\bin\Debug\net6.0\aiMDS.pdb
+C:\Users\Alifd\source\repos\aiMDS\aiMDS\obj\Debug\net6.0\aiMDS.dll
+C:\Users\Alifd\source\repos\aiMDS\aiMDS\obj\Debug\net6.0\refint\aiMDS.dll
+C:\Users\Alifd\source\repos\aiMDS\aiMDS\obj\Debug\net6.0\aiMDS.pdb
+C:\Users\Alifd\source\repos\aiMDS\aiMDS\obj\Debug\net6.0\aiMDS.genruntimeconfig.cache
+C:\Users\Alifd\source\repos\aiMDS\aiMDS\obj\Debug\net6.0\ref\aiMDS.dll
